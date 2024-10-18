@@ -5,4 +5,6 @@ This tutorial focuses mainly on Git and using GitHub as its remote.
 
 This repository is built step by step in the tutorial.
 
+This line is for local branch upate-readme record.
+
 It now include steps from GitHub.
